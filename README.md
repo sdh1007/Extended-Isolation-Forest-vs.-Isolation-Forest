@@ -45,3 +45,6 @@ The `Comparing Isolation Forest and Extended Isolation Forest.ipynb` notebook co
    ```bash
    git clone https://github.com/yourusername/isolation-forest-comparison.git
    cd isolation-forest-comparison
+
+1. Download the CSV file.
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
